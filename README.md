@@ -93,10 +93,10 @@ This checks that all data files match the paper's claims. If it prints
 ## Citation
 
 ```bibtex
-@article{ddsd2025,
+@article{ddsd2026,
   title={Structural Dissipation in Discrete Dynamical Systems: A Computational Characterization},
   author={Nieto, Luciano Benjamín},
-  year={2025},
+  year={2026},
   note={arXiv preprint}
 }
 ```
