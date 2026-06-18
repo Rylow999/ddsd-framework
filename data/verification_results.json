@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "collatz_traj": 952,
+    "fivexone_traj": 200,
+    "seed": 42
+  },
+  "collatz": {
+    "A1": {
+      "correlation": 0.18197605392140126,
+      "r_squared": 0.033115284200804736
+    },
+    "A2": {
+      "mean_score": 0.9705244634894126,
+      "n_fibers": 32
+    },
+    "A4_e2": {
+      "mean_frequency": 0.5216721863227413,
+      "min_frequency": 0.3897058823529412
+    },
+    "A4_e3": {
+      "mean_frequency": 0.7629594128933238,
+      "min_frequency": 0.5772357723577236
+    }
+  },
+  "fivexone": {
+    "A1": {
+      "correlation": 0.20269071173625483,
+      "r_squared": 0.041083524624149555
+    },
+    "A2": {
+      "mean_score": 0.9950691328097843,
+      "n_fibers": 32
+    },
+    "A4_e2": {
+      "mean_frequency": 0.4926430348258707,
+      "min_frequency": 0.25
+    },
+    "A4_e3": {
+      "mean_frequency": 0.7555161691542288,
+      "min_frequency": 0.6517412935323383
+    },
+    "not_terminated": 198
+  }
+}
