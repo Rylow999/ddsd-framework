@@ -93,7 +93,7 @@ This checks that all data files match the paper's claims. If it prints
 ## Citation
 
 ```bibtex
-@article{ddsd2026,
+@article{Nieto2026DDSD,
   title={Structural Dissipation in Discrete Dynamical Systems: A Computational Characterization},
   author={Nieto, Luciano Benjamín},
   year={2026},
