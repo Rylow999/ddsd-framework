@@ -114,7 +114,7 @@ For LaTeX compilation:
 **Luciano Benjamín Nieto**  
 Independent Researcher, General Alvear, Mendoza, Argentina  
 
-GitHub: [@delorien](https://github.com/delorien)
+GitHub: [@Rylow999](https://github.com/Rylow999)
 
 ## License
 
