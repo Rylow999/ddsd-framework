@@ -1,5 +1,13 @@
 # Structural Dissipation in Discrete Dynamical Systems: A Computational Characterization
 
+**Author:** Luciano Benjamín Nieto  
+**Affiliation:** Independent Research  
+**Contact:** lucianobenjaminnieto@gmail.com  
+**Date:** 2026  
+**License:** CC-BY 4.0 (Share, adapt, build upon freely)
+
+---
+
 **Abstract.** We introduce the DDSD framework as a structural characterization of dissipative behavior in discrete dynamical systems. The framework proposes four measurable properties: (A1) decay of energy-projection correlation with coarse-graining resolution; (A2) intrafiber output dispersion; (A3) scale-dependent negative macroscopic drift; and (A4) pathwise recurrence to low-energy regions. We instantiate this framework on the Collatz $3x+1$ map, the divergent $5x+1$ map, a family of perturbed maps $ax+1$, an artificial critical map, a 2-adic variable field, a toy cryptographic hash model, and an evolved map discovered via genetic algorithm. Computational verification on 952 Collatz trajectories up to $2^{40}$ and 200 $5x+1$ trajectories shows that A3 discriminates the two systems under Bonferroni-corrected multiplicity testing. A1 and A2 are shared structural properties. A4 does not discriminate. A neural network approximation of the empirical invariant measure achieves $R^2=0.96$ under leave-one-out cross-validation, providing exploratory evidence for smoothness in log-coordinates. The exact drift in the 2-adic setting is $\log_2(a) - 2$, placing Collatz ($a=3$) as the last odd dissipative map before the inaccessible boundary at $a=4$. An artificial critical map exhibits bimodal behavior (23% collapse, 77% explosion) with no macro-clusters. A 2-adic variable field mixing dissipative and expansive zones yields intermediate termination rates (~60%). A toy hash model exhibits hyper-dissipative behavior (drift $-1.29$) with perfect decorrelation, suggesting that cryptographic hashes and Collatz share the same structural recipe with different dissipation strength. A genetic algorithm discovers a map with drift $-0.23$ (2.5× stronger than Collatz) and 100% termination, proving that Collatz is not optimal within the DDSD fitness landscape. The framework is presented as a taxonomic tool, not as a proof of boundedness.
 
 ## 1. Introduction
