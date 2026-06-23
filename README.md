@@ -1,6 +1,11 @@
 # DDSD Framework: Structural Characterization of Discrete Dynamical Systems
 
+**Author:** Luciano Benjamín Nieto  
+**Contact:** lucianobenjaminnieto@gmail.com  
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+---
 
 Computational verification suite for the DDSD framework applied to Collatz, 5x+1,
 perturbed families, critical maps, 2-adic variable fields, toy cryptographic hashes,
