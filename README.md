@@ -112,6 +112,6 @@ For questions or issues, please open a GitHub issue or contact the authors.
 
 ---
 
-*Generated: 2026-06-18*
+*Per Aspera, Ad Astra.*
 *Framework: DDSD v2.0*
 *Seed: 42*
