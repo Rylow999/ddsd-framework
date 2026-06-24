@@ -1,7 +1,8 @@
 # DDSD Framework: Structural Characterization of Discrete Dynamical Systems
 
 **Author:** Luciano Benjamín Nieto  
-**Contact:** lucianobenjaminnieto@gmail.com  
+**Affiliation:** Independent Researcher, General Alvear, Mendoza, Argentina    
+**Series:** DDSD Part 1
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
